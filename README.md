@@ -1,10 +1,10 @@
-# Vison CAD Platform
+# VSN CAD Platform
 
 A professional 3D CAD modeling engine built with **Open Cascade Technology (OCCT)**, providing powerful geometry creation, manipulation, and visualization capabilities through both a headless JSON API and an interactive 3D viewer.
 
 ## 🎯 Overview
 
-Vison CAD Platform is a C++ application designed for:
+VSN CAD Platform is a C++ application designed for:
 - **Headless geometric operations** via JSON commands
 - **Interactive 3D visualization** of CAD models
 - **STEP file import/export** for industry-standard CAD data
@@ -299,9 +299,7 @@ Shapes are stored in a global registry (`g_shapeMap`) during the engine session.
 - [ ] Plugin architecture for custom operations
 - [ ] Web-based UI frontend
 
-## 📝 License
 
-[Specify your license here - e.g., MIT, GPL, proprietary]
 
 ## 🤝 Contributing
 

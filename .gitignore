@@ -1,0 +1,48 @@
+# Build directories
+build/
+.vs/
+cmake_build/
+out/
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.obj
+*.o
+*.a
+*.so
+
+# CMake
+CMakeCache.txt
+CMakeLists.txt.user
+CMakeUserPresets.json
+*.cmake
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.slnx
+.vscode/settings.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Screenshots
+vison_screenshot.png
+
+# Logs
+*.log

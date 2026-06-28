@@ -1,3 +1,0 @@
-C:/AiCadPlatform/build/CMakeFiles/AiCadPlatform.dir
-C:/AiCadPlatform/build/CMakeFiles/ALL_BUILD.dir
-C:/AiCadPlatform/build/CMakeFiles/ZERO_CHECK.dir
